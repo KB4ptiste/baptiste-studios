@@ -1,0 +1,26 @@
+{
+  "name": {
+    "en-US": "Black Violet Purple"
+  },
+  "slug": "black-violet-purple",
+  "summary": {
+    "en-US": "Dark black-violet Firefox theme with purple active-tab accents and muted lilac text."
+  },
+  "description": {
+    "en-US": "Black Violet Purple is a dark Firefox theme built around a visible purple-black browser frame, muted lilac interface text, and a clean purple active-tab line. It avoids neon glare while still reading clearly as a purple theme."
+  },
+  "categories": [
+    "solid"
+  ],
+  "tags": [
+    "purple",
+    "dark",
+    "black violet",
+    "lilac",
+    "solid theme"
+  ],
+  "version": {
+    "license": "CC-BY-NC-ND-3.0",
+    "approval_notes": "Static Firefox theme. Contains only manifest.json, local icon PNG files, and README.md. No scripts, no permissions, no remote resources, no tracking, no analytics, and no data collection or transmission."
+  }
+}

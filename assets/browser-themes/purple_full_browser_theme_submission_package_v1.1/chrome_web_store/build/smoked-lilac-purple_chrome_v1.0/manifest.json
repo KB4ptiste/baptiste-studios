@@ -1,0 +1,134 @@
+{
+  "manifest_version": 3,
+  "version": "1.0",
+  "name": "Smoked Lilac Purple",
+  "short_name": "Lilac Purple",
+  "description": "Light smoked-lilac browser chrome with purple accents. Designed for Chrome.",
+  "author": "Purple Color Themes",
+  "icons": {
+    "16": "icons/icon-16.png",
+    "32": "icons/icon-32.png",
+    "48": "icons/icon-48.png",
+    "128": "icons/icon-128.png"
+  },
+  "theme": {
+    "colors": {
+      "frame": [
+        222,
+        210,
+        232
+      ],
+      "frame_inactive": [
+        200,
+        182,
+        219
+      ],
+      "toolbar": [
+        233,
+        224,
+        241
+      ],
+      "tab_text": [
+        23,
+        17,
+        31
+      ],
+      "tab_background_text": [
+        85,
+        74,
+        96
+      ],
+      "bookmark_text": [
+        23,
+        17,
+        31
+      ],
+      "button_background": [
+        216,
+        201,
+        230
+      ],
+      "toolbar_button_icon": [
+        85,
+        74,
+        96
+      ],
+      "ntp_background": [
+        222,
+        210,
+        232
+      ],
+      "ntp_text": [
+        23,
+        17,
+        31
+      ],
+      "ntp_link": [
+        91,
+        33,
+        182
+      ],
+      "omnibox_background": [
+        255,
+        255,
+        255
+      ],
+      "omnibox_text": [
+        23,
+        17,
+        31
+      ],
+      "omnibox_placeholder": [
+        85,
+        74,
+        96
+      ],
+      "omnibox_results_background": [
+        243,
+        238,
+        248
+      ],
+      "omnibox_results_text": [
+        23,
+        17,
+        31
+      ],
+      "omnibox_results_url": [
+        91,
+        33,
+        182
+      ],
+      "control_background": [
+        243,
+        238,
+        248
+      ]
+    },
+    "tints": {
+      "buttons": [
+        -1,
+        -1,
+        -1
+      ],
+      "frame": [
+        -1,
+        -1,
+        -1
+      ],
+      "frame_inactive": [
+        -1,
+        -1,
+        -1
+      ],
+      "background_tab": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat": "no-repeat"
+    }
+  }
+}

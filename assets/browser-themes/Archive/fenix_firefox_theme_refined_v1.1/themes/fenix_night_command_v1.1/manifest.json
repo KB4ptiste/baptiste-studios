@@ -1,0 +1,35 @@
+{
+  "manifest_version": 2,
+  "version": "1.1",
+  "name": "Fenix Night Command",
+  "description": "Core dark Firefox theme using the Fenix Gaming Night Command palette. v1.1 replaces the old Black Plum browser frame with Black Violet for a more visibly purple dark chrome.",
+  "theme": {
+    "colors": {
+      "frame": "#150A24",
+      "frame_inactive": "#12091C",
+      "toolbar": "#1B1226",
+      "toolbar_text": "#D6C8EA",
+      "toolbar_field": "#12091C",
+      "toolbar_field_text": "#D6C8EA",
+      "toolbar_field_border": "#4B3764",
+      "toolbar_field_border_focus": "#C4B5FD",
+      "toolbar_top_separator": "#2E203D",
+      "toolbar_bottom_separator": "#4B3764",
+      "toolbar_vertical_separator": "#2E203D",
+      "tab_background_text": "#A99ABF",
+      "tab_selected": "#27173A",
+      "tab_text": "#E7DCF5",
+      "tab_line": "#7C3AED",
+      "tab_loading": "#A78BFA",
+      "popup": "#27173A",
+      "popup_text": "#D6C8EA",
+      "popup_border": "#4B3764",
+      "popup_highlight": "#24143A",
+      "popup_highlight_text": "#E7DCF5",
+      "icons": "#A99ABF",
+      "icons_attention": "#F59E0B",
+      "button_background_hover": "#21152F",
+      "button_background_active": "#2B1844"
+    }
+  }
+}

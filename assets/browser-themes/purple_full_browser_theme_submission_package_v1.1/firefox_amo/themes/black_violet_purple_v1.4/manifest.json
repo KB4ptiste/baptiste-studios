@@ -1,0 +1,45 @@
+{
+  "manifest_version": 2,
+  "version": "1.4",
+  "name": "Black Violet Purple",
+  "description": "A dark purple Firefox theme with black-violet browser chrome, muted lilac text, and purple active-tab accents.",
+  "icons": {
+    "48": "icons/icon-48.png",
+    "96": "icons/icon-96.png",
+    "128": "icons/icon-128.png"
+  },
+  "theme": {
+    "colors": {
+      "frame": "#150A24",
+      "frame_inactive": "#12091C",
+      "toolbar": "#1B1226",
+      "toolbar_text": "#D6C8EA",
+      "toolbar_field_text": "#E7DCF5",
+      "toolbar_field_border": "#4B3764",
+      "toolbar_top_separator": "#2E203D",
+      "toolbar_vertical_separator": "#2E203D",
+      "tab_background_text": "#A99ABF",
+      "tab_selected": "#27173A",
+      "tab_text": "#E7DCF5",
+      "popup": "#27173A",
+      "popup_text": "#D6C8EA",
+      "icons": "#A99ABF",
+      "button_background_hover": "#21152F",
+      "toolbar_field": "#12091C",
+      "toolbar_field_border_focus": "#C4B5FD",
+      "toolbar_bottom_separator": "#4B3764",
+      "tab_line": "#7C3AED",
+      "tab_loading": "#A78BFA",
+      "popup_border": "#4B3764",
+      "popup_highlight": "#24143A",
+      "popup_highlight_text": "#E7DCF5",
+      "icons_attention": "#F59E0B",
+      "button_background_active": "#2B1844"
+    }
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "black-violet-purple@purple-color-themes.local"
+    }
+  }
+}

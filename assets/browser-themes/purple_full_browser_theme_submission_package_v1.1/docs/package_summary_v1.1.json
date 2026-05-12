@@ -1,0 +1,40 @@
+{
+  "package": "Purple Full Browser Theme Submission Package",
+  "version": "1.1",
+  "created_for": [
+    "Firefox AMO",
+    "Chrome Web Store",
+    "Microsoft Edge Add-ons",
+    "Opera GX Mods",
+    "DuckDuckGo appearance recipes",
+    "Safari macOS site tint recipes"
+  ],
+  "themes": [
+    "Black Violet Purple",
+    "Smoked Lilac Purple",
+    "Black Violet Magenta",
+    "Black Violet Orange"
+  ],
+  "installable_public_packages": {
+    "Firefox AMO": 4,
+    "Chrome": 4,
+    "Microsoft Edge": 4,
+    "Opera GX": 4,
+    "DuckDuckGo": 0,
+    "Safari macOS": 0
+  },
+  "recipe_files": {
+    "DuckDuckGo": 4,
+    "Safari macOS": 4
+  },
+  "internal_versions": {
+    "Firefox AMO": "1.4",
+    "Chrome Web Store": "1.0",
+    "Microsoft Edge Add-ons": "1.0",
+    "Opera GX Mods": "1.0",
+    "Unified package": "1.1"
+  },
+  "submission_uploads_folder": "submission_uploads/",
+  "preview_folder": "all_previews/",
+  "notes": "This package merges the Firefox AMO-ready set into the existing cross-browser port. DuckDuckGo and Safari remain recipes rather than public installable global browser theme packages."
+}

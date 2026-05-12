@@ -1,0 +1,18 @@
+{
+  "store": "Opera GX / GX.store",
+  "name": "Black Violet Orange",
+  "version": "1.0",
+  "category": "Themes / Appearance",
+  "summary": "Dark black-violet browser chrome with orange-gold accents.",
+  "description": "A dark black-violet and orange browser theme using layered plum surfaces, muted lilac text, and ember-orange accents for a high-contrast premium dark interface.",
+  "license": "Replace LICENSE.txt before final submission if you need a specific public license.",
+  "source_zip": "opera_gx_mods/source/black-violet-orange_opera_gx_mod_source_v1.0.zip",
+  "icon_512": "opera_gx_mods/store_assets/black-violet-orange/black-violet-orange_icon_512_v1.0.png",
+  "screenshots": [
+    "opera_gx_mods/store_assets/black-violet-orange/black-violet-orange_screenshot_1280x800_v1.0.png"
+  ],
+  "wallpapers": [
+    "opera_gx_mods/store_assets/black-violet-orange/black-violet-orange_wallpaper_dark_1920x1080_v1.0.png",
+    "opera_gx_mods/store_assets/black-violet-orange/black-violet-orange_wallpaper_light_1920x1080_v1.0.png"
+  ]
+}

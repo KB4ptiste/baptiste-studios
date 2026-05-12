@@ -1,0 +1,35 @@
+{
+  "manifest_version": 2,
+  "version": "1.1",
+  "name": "Fenix Astral Rare",
+  "description": "Dark Firefox theme using Astral Magenta for faction, lore, and premium emphasis. v1.1 replaces the old Black Plum browser frame with Black Violet for a more visibly purple dark chrome.",
+  "theme": {
+    "colors": {
+      "frame": "#150A24",
+      "frame_inactive": "#12091C",
+      "toolbar": "#1B1226",
+      "toolbar_text": "#D6C8EA",
+      "toolbar_field": "#32173A",
+      "toolbar_field_text": "#E7DCF5",
+      "toolbar_field_border": "#4B3764",
+      "toolbar_field_border_focus": "#E879F9",
+      "toolbar_top_separator": "#2E203D",
+      "toolbar_bottom_separator": "#32173A",
+      "toolbar_vertical_separator": "#2E203D",
+      "tab_background_text": "#A99ABF",
+      "tab_selected": "#27173A",
+      "tab_text": "#E7DCF5",
+      "tab_line": "#E879F9",
+      "tab_loading": "#E879F9",
+      "popup": "#27173A",
+      "popup_text": "#D6C8EA",
+      "popup_border": "#32173A",
+      "popup_highlight": "#32173A",
+      "popup_highlight_text": "#E879F9",
+      "icons": "#A99ABF",
+      "icons_attention": "#E879F9",
+      "button_background_hover": "#21152F",
+      "button_background_active": "#32173A"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Black Violet Orange",
+  "description": "Dark black-violet browser chrome with orange-gold accents. Opera GX mod theme using matching light and dark color slots.",
+  "developer": {
+    "name": "Purple Color Themes"
+  },
+  "icons": {
+    "512": "icon_512.png"
+  },
+  "manifest_version": 3,
+  "mod": {
+    "license": "license.txt",
+    "payload": {
+      "theme": {
+        "dark": {
+          "gx_accent": {
+            "h": 38,
+            "s": 92,
+            "l": 50
+          },
+          "gx_secondary_base": {
+            "h": 265,
+            "s": 57,
+            "l": 9
+          }
+        },
+        "light": {
+          "gx_accent": {
+            "h": 38,
+            "s": 92,
+            "l": 50
+          },
+          "gx_secondary_base": {
+            "h": 273,
+            "s": 32,
+            "l": 87
+          }
+        }
+      },
+      "wallpaper": {
+        "dark": {
+          "image": "wallpaper/dark.png",
+          "text_color": "#D6C8EA",
+          "text_shadow": "#12091C"
+        },
+        "light": {
+          "image": "wallpaper/light.png",
+          "text_color": "#17111F",
+          "text_shadow": "#FFFFFF"
+        }
+      }
+    },
+    "schema_version": 1
+  },
+  "version": "1.0"
+}

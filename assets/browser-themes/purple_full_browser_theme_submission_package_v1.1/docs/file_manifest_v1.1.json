@@ -1,0 +1,1246 @@
+[
+  {
+    "path": "README.md",
+    "bytes": 1393
+  },
+  {
+    "path": "all_previews/chrome_web_store/black-violet-magenta_chrome_preview_v1.0.png",
+    "bytes": 41327
+  },
+  {
+    "path": "all_previews/chrome_web_store/black-violet-orange_chrome_preview_v1.0.png",
+    "bytes": 41973
+  },
+  {
+    "path": "all_previews/chrome_web_store/black-violet-purple_chrome_preview_v1.0.png",
+    "bytes": 41249
+  },
+  {
+    "path": "all_previews/chrome_web_store/smoked-lilac-purple_chrome_preview_v1.0.png",
+    "bytes": 40422
+  },
+  {
+    "path": "all_previews/duckduckgo/black-violet-magenta_duckduckgo_recipe_preview_v1.0.png",
+    "bytes": 41327
+  },
+  {
+    "path": "all_previews/duckduckgo/black-violet-orange_duckduckgo_recipe_preview_v1.0.png",
+    "bytes": 41973
+  },
+  {
+    "path": "all_previews/duckduckgo/black-violet-purple_duckduckgo_recipe_preview_v1.0.png",
+    "bytes": 41249
+  },
+  {
+    "path": "all_previews/duckduckgo/smoked-lilac-purple_duckduckgo_recipe_preview_v1.0.png",
+    "bytes": 40422
+  },
+  {
+    "path": "all_previews/firefox_amo/black-violet-magenta_theme_preview_v1.4.png",
+    "bytes": 77167
+  },
+  {
+    "path": "all_previews/firefox_amo/black-violet-orange_theme_preview_v1.4.png",
+    "bytes": 78614
+  },
+  {
+    "path": "all_previews/firefox_amo/black-violet-purple_theme_preview_v1.4.png",
+    "bytes": 76233
+  },
+  {
+    "path": "all_previews/firefox_amo/purple_firefox_theme_contact_sheet_v1.4.png",
+    "bytes": 256280
+  },
+  {
+    "path": "all_previews/firefox_amo/smoked-lilac-purple_theme_preview_v1.4.png",
+    "bytes": 76480
+  },
+  {
+    "path": "all_previews/microsoft_edge_addons/black-violet-magenta_edge_preview_v1.0.png",
+    "bytes": 41327
+  },
+  {
+    "path": "all_previews/microsoft_edge_addons/black-violet-orange_edge_preview_v1.0.png",
+    "bytes": 41973
+  },
+  {
+    "path": "all_previews/microsoft_edge_addons/black-violet-purple_edge_preview_v1.0.png",
+    "bytes": 41249
+  },
+  {
+    "path": "all_previews/microsoft_edge_addons/smoked-lilac-purple_edge_preview_v1.0.png",
+    "bytes": 40422
+  },
+  {
+    "path": "all_previews/opera_gx_mods/black-violet-magenta_opera_gx_preview_v1.0.png",
+    "bytes": 41327
+  },
+  {
+    "path": "all_previews/opera_gx_mods/black-violet-orange_opera_gx_preview_v1.0.png",
+    "bytes": 41973
+  },
+  {
+    "path": "all_previews/opera_gx_mods/black-violet-purple_opera_gx_preview_v1.0.png",
+    "bytes": 41249
+  },
+  {
+    "path": "all_previews/opera_gx_mods/smoked-lilac-purple_opera_gx_preview_v1.0.png",
+    "bytes": 40422
+  },
+  {
+    "path": "all_previews/safari_macos/black-violet-magenta_safari_tint_preview_v1.0.png",
+    "bytes": 41327
+  },
+  {
+    "path": "all_previews/safari_macos/black-violet-orange_safari_tint_preview_v1.0.png",
+    "bytes": 41973
+  },
+  {
+    "path": "all_previews/safari_macos/black-violet-purple_safari_tint_preview_v1.0.png",
+    "bytes": 41249
+  },
+  {
+    "path": "all_previews/safari_macos/smoked-lilac-purple_safari_tint_preview_v1.0.png",
+    "bytes": 40422
+  },
+  {
+    "path": "all_previews/shared/black-violet-magenta_cross_browser_preview_v1.0.png",
+    "bytes": 41327
+  },
+  {
+    "path": "all_previews/shared/black-violet-orange_cross_browser_preview_v1.0.png",
+    "bytes": 41973
+  },
+  {
+    "path": "all_previews/shared/black-violet-purple_cross_browser_preview_v1.0.png",
+    "bytes": 41249
+  },
+  {
+    "path": "all_previews/shared/purple_cross_browser_contact_sheet_v1.0.png",
+    "bytes": 208733
+  },
+  {
+    "path": "all_previews/shared/smoked-lilac-purple_cross_browser_preview_v1.0.png",
+    "bytes": 40422
+  },
+  {
+    "path": "chrome_web_store/build/black-violet-magenta_chrome_v1.0/LICENSE.txt",
+    "bytes": 223
+  },
+  {
+    "path": "chrome_web_store/build/black-violet-magenta_chrome_v1.0/README.md",
+    "bytes": 441
+  },
+  {
+    "path": "chrome_web_store/build/black-violet-magenta_chrome_v1.0/icons/icon-128.png",
+    "bytes": 2194
+  },
+  {
+    "path": "chrome_web_store/build/black-violet-magenta_chrome_v1.0/icons/icon-16.png",
+    "bytes": 434
+  },
+  {
+    "path": "chrome_web_store/build/black-violet-magenta_chrome_v1.0/icons/icon-32.png",
+    "bytes": 633
+  },
+  {
+    "path": "chrome_web_store/build/black-violet-magenta_chrome_v1.0/icons/icon-48.png",
+    "bytes": 951
+  },
+  {
+    "path": "chrome_web_store/build/black-violet-magenta_chrome_v1.0/manifest.json",
+    "bytes": 2128
+  },
+  {
+    "path": "chrome_web_store/build/black-violet-orange_chrome_v1.0/LICENSE.txt",
+    "bytes": 223
+  },
+  {
+    "path": "chrome_web_store/build/black-violet-orange_chrome_v1.0/README.md",
+    "bytes": 440
+  },
+  {
+    "path": "chrome_web_store/build/black-violet-orange_chrome_v1.0/icons/icon-128.png",
+    "bytes": 2327
+  },
+  {
+    "path": "chrome_web_store/build/black-violet-orange_chrome_v1.0/icons/icon-16.png",
+    "bytes": 422
+  },
+  {
+    "path": "chrome_web_store/build/black-violet-orange_chrome_v1.0/icons/icon-32.png",
+    "bytes": 597
+  },
+  {
+    "path": "chrome_web_store/build/black-violet-orange_chrome_v1.0/icons/icon-48.png",
+    "bytes": 975
+  },
+  {
+    "path": "chrome_web_store/build/black-violet-orange_chrome_v1.0/manifest.json",
+    "bytes": 2128
+  },
+  {
+    "path": "chrome_web_store/build/black-violet-purple_chrome_v1.0/LICENSE.txt",
+    "bytes": 223
+  },
+  {
+    "path": "chrome_web_store/build/black-violet-purple_chrome_v1.0/README.md",
+    "bytes": 440
+  },
+  {
+    "path": "chrome_web_store/build/black-violet-purple_chrome_v1.0/icons/icon-128.png",
+    "bytes": 1976
+  },
+  {
+    "path": "chrome_web_store/build/black-violet-purple_chrome_v1.0/icons/icon-16.png",
+    "bytes": 402
+  },
+  {
+    "path": "chrome_web_store/build/black-violet-purple_chrome_v1.0/icons/icon-32.png",
+    "bytes": 574
+  },
+  {
+    "path": "chrome_web_store/build/black-violet-purple_chrome_v1.0/icons/icon-48.png",
+    "bytes": 884
+  },
+  {
+    "path": "chrome_web_store/build/black-violet-purple_chrome_v1.0/manifest.json",
+    "bytes": 2124
+  },
+  {
+    "path": "chrome_web_store/build/smoked-lilac-purple_chrome_v1.0/LICENSE.txt",
+    "bytes": 223
+  },
+  {
+    "path": "chrome_web_store/build/smoked-lilac-purple_chrome_v1.0/README.md",
+    "bytes": 440
+  },
+  {
+    "path": "chrome_web_store/build/smoked-lilac-purple_chrome_v1.0/icons/icon-128.png",
+    "bytes": 1989
+  },
+  {
+    "path": "chrome_web_store/build/smoked-lilac-purple_chrome_v1.0/icons/icon-16.png",
+    "bytes": 419
+  },
+  {
+    "path": "chrome_web_store/build/smoked-lilac-purple_chrome_v1.0/icons/icon-32.png",
+    "bytes": 598
+  },
+  {
+    "path": "chrome_web_store/build/smoked-lilac-purple_chrome_v1.0/icons/icon-48.png",
+    "bytes": 885
+  },
+  {
+    "path": "chrome_web_store/build/smoked-lilac-purple_chrome_v1.0/manifest.json",
+    "bytes": 2122
+  },
+  {
+    "path": "chrome_web_store/metadata/black-violet-magenta_chrome_web_store_metadata_v1.0.json",
+    "bytes": 1126
+  },
+  {
+    "path": "chrome_web_store/metadata/black-violet-orange_chrome_web_store_metadata_v1.0.json",
+    "bytes": 1132
+  },
+  {
+    "path": "chrome_web_store/metadata/black-violet-purple_chrome_web_store_metadata_v1.0.json",
+    "bytes": 1123
+  },
+  {
+    "path": "chrome_web_store/metadata/smoked-lilac-purple_chrome_web_store_metadata_v1.0.json",
+    "bytes": 1122
+  },
+  {
+    "path": "chrome_web_store/previews/black-violet-magenta_chrome_preview_v1.0.png",
+    "bytes": 41327
+  },
+  {
+    "path": "chrome_web_store/previews/black-violet-orange_chrome_preview_v1.0.png",
+    "bytes": 41973
+  },
+  {
+    "path": "chrome_web_store/previews/black-violet-purple_chrome_preview_v1.0.png",
+    "bytes": 41249
+  },
+  {
+    "path": "chrome_web_store/previews/smoked-lilac-purple_chrome_preview_v1.0.png",
+    "bytes": 40422
+  },
+  {
+    "path": "chrome_web_store/source/black-violet-magenta_chrome_source_v1.0.zip",
+    "bytes": 5976
+  },
+  {
+    "path": "chrome_web_store/source/black-violet-orange_chrome_source_v1.0.zip",
+    "bytes": 6093
+  },
+  {
+    "path": "chrome_web_store/source/black-violet-purple_chrome_source_v1.0.zip",
+    "bytes": 5596
+  },
+  {
+    "path": "chrome_web_store/source/smoked-lilac-purple_chrome_source_v1.0.zip",
+    "bytes": 5646
+  },
+  {
+    "path": "chrome_web_store/store_assets/black-violet-magenta/black-violet-magenta_large_tile_1400x560_v1.0.png",
+    "bytes": 88613
+  },
+  {
+    "path": "chrome_web_store/store_assets/black-violet-magenta/black-violet-magenta_screenshot_1280x800_v1.0.png",
+    "bytes": 41327
+  },
+  {
+    "path": "chrome_web_store/store_assets/black-violet-magenta/black-violet-magenta_small_tile_440x280_v1.0.png",
+    "bytes": 26749
+  },
+  {
+    "path": "chrome_web_store/store_assets/black-violet-orange/black-violet-orange_large_tile_1400x560_v1.0.png",
+    "bytes": 89243
+  },
+  {
+    "path": "chrome_web_store/store_assets/black-violet-orange/black-violet-orange_screenshot_1280x800_v1.0.png",
+    "bytes": 41973
+  },
+  {
+    "path": "chrome_web_store/store_assets/black-violet-orange/black-violet-orange_small_tile_440x280_v1.0.png",
+    "bytes": 26476
+  },
+  {
+    "path": "chrome_web_store/store_assets/black-violet-purple/black-violet-purple_large_tile_1400x560_v1.0.png",
+    "bytes": 87236
+  },
+  {
+    "path": "chrome_web_store/store_assets/black-violet-purple/black-violet-purple_screenshot_1280x800_v1.0.png",
+    "bytes": 41249
+  },
+  {
+    "path": "chrome_web_store/store_assets/black-violet-purple/black-violet-purple_small_tile_440x280_v1.0.png",
+    "bytes": 26422
+  },
+  {
+    "path": "chrome_web_store/store_assets/smoked-lilac-purple/smoked-lilac-purple_large_tile_1400x560_v1.0.png",
+    "bytes": 84586
+  },
+  {
+    "path": "chrome_web_store/store_assets/smoked-lilac-purple/smoked-lilac-purple_screenshot_1280x800_v1.0.png",
+    "bytes": 40422
+  },
+  {
+    "path": "chrome_web_store/store_assets/smoked-lilac-purple/smoked-lilac-purple_small_tile_440x280_v1.0.png",
+    "bytes": 25709
+  },
+  {
+    "path": "docs/package_summary_v1.1.json",
+    "bytes": 1105
+  },
+  {
+    "path": "docs/purple_full_browser_theme_submission_guide_v1.1.md",
+    "bytes": 4647
+  },
+  {
+    "path": "docs/purple_full_browser_theme_submission_index_v1.1.md",
+    "bytes": 2916
+  },
+  {
+    "path": "duckduckgo/previews/black-violet-magenta_duckduckgo_recipe_preview_v1.0.png",
+    "bytes": 41327
+  },
+  {
+    "path": "duckduckgo/previews/black-violet-orange_duckduckgo_recipe_preview_v1.0.png",
+    "bytes": 41973
+  },
+  {
+    "path": "duckduckgo/previews/black-violet-purple_duckduckgo_recipe_preview_v1.0.png",
+    "bytes": 41249
+  },
+  {
+    "path": "duckduckgo/previews/smoked-lilac-purple_duckduckgo_recipe_preview_v1.0.png",
+    "bytes": 40422
+  },
+  {
+    "path": "duckduckgo/recipes/black-violet-magenta_duckduckgo_recipe_v1.0.json",
+    "bytes": 951
+  },
+  {
+    "path": "duckduckgo/recipes/black-violet-orange_duckduckgo_recipe_v1.0.json",
+    "bytes": 950
+  },
+  {
+    "path": "duckduckgo/recipes/black-violet-purple_duckduckgo_recipe_v1.0.json",
+    "bytes": 950
+  },
+  {
+    "path": "duckduckgo/recipes/smoked-lilac-purple_duckduckgo_recipe_v1.0.json",
+    "bytes": 951
+  },
+  {
+    "path": "firefox_amo/README.md",
+    "bytes": 195
+  },
+  {
+    "path": "firefox_amo/icons/black-violet-magenta-icon-128.png",
+    "bytes": 1343
+  },
+  {
+    "path": "firefox_amo/icons/black-violet-magenta-icon-48.png",
+    "bytes": 499
+  },
+  {
+    "path": "firefox_amo/icons/black-violet-magenta-icon-96.png",
+    "bytes": 979
+  },
+  {
+    "path": "firefox_amo/icons/black-violet-orange-icon-128.png",
+    "bytes": 1340
+  },
+  {
+    "path": "firefox_amo/icons/black-violet-orange-icon-48.png",
+    "bytes": 506
+  },
+  {
+    "path": "firefox_amo/icons/black-violet-orange-icon-96.png",
+    "bytes": 977
+  },
+  {
+    "path": "firefox_amo/icons/black-violet-purple-icon-128.png",
+    "bytes": 1339
+  },
+  {
+    "path": "firefox_amo/icons/black-violet-purple-icon-48.png",
+    "bytes": 497
+  },
+  {
+    "path": "firefox_amo/icons/black-violet-purple-icon-96.png",
+    "bytes": 978
+  },
+  {
+    "path": "firefox_amo/icons/smoked-lilac-purple-icon-128.png",
+    "bytes": 1341
+  },
+  {
+    "path": "firefox_amo/icons/smoked-lilac-purple-icon-48.png",
+    "bytes": 498
+  },
+  {
+    "path": "firefox_amo/icons/smoked-lilac-purple-icon-96.png",
+    "bytes": 978
+  },
+  {
+    "path": "firefox_amo/metadata/black-violet-magenta_amo_metadata_v1.4.json",
+    "bytes": 911
+  },
+  {
+    "path": "firefox_amo/metadata/black-violet-orange_amo_metadata_v1.4.json",
+    "bytes": 928
+  },
+  {
+    "path": "firefox_amo/metadata/black-violet-purple_amo_metadata_v1.4.json",
+    "bytes": 885
+  },
+  {
+    "path": "firefox_amo/metadata/smoked-lilac-purple_amo_metadata_v1.4.json",
+    "bytes": 891
+  },
+  {
+    "path": "firefox_amo/previews/black-violet-magenta_theme_preview_v1.4.png",
+    "bytes": 77167
+  },
+  {
+    "path": "firefox_amo/previews/black-violet-orange_theme_preview_v1.4.png",
+    "bytes": 78614
+  },
+  {
+    "path": "firefox_amo/previews/black-violet-purple_theme_preview_v1.4.png",
+    "bytes": 76233
+  },
+  {
+    "path": "firefox_amo/previews/purple_firefox_theme_contact_sheet_v1.4.png",
+    "bytes": 256280
+  },
+  {
+    "path": "firefox_amo/previews/smoked-lilac-purple_theme_preview_v1.4.png",
+    "bytes": 76480
+  },
+  {
+    "path": "firefox_amo/purple_firefox_theme_public_listing_guide_v1.4.md",
+    "bytes": 10248
+  },
+  {
+    "path": "firefox_amo/purple_firefox_theme_set_v1.4.md",
+    "bytes": 1672
+  },
+  {
+    "path": "firefox_amo/source/black_violet_magenta_source_v1.4.zip",
+    "bytes": 4211
+  },
+  {
+    "path": "firefox_amo/source/black_violet_orange_source_v1.4.zip",
+    "bytes": 4215
+  },
+  {
+    "path": "firefox_amo/source/black_violet_purple_source_v1.4.zip",
+    "bytes": 4231
+  },
+  {
+    "path": "firefox_amo/source/smoked_lilac_purple_source_v1.4.zip",
+    "bytes": 4228
+  },
+  {
+    "path": "firefox_amo/themes/black_violet_magenta_v1.4/README.md",
+    "bytes": 511
+  },
+  {
+    "path": "firefox_amo/themes/black_violet_magenta_v1.4/icons/icon-128.png",
+    "bytes": 1343
+  },
+  {
+    "path": "firefox_amo/themes/black_violet_magenta_v1.4/icons/icon-48.png",
+    "bytes": 499
+  },
+  {
+    "path": "firefox_amo/themes/black_violet_magenta_v1.4/icons/icon-96.png",
+    "bytes": 979
+  },
+  {
+    "path": "firefox_amo/themes/black_violet_magenta_v1.4/manifest.json",
+    "bytes": 1348
+  },
+  {
+    "path": "firefox_amo/themes/black_violet_orange_v1.4/README.md",
+    "bytes": 506
+  },
+  {
+    "path": "firefox_amo/themes/black_violet_orange_v1.4/icons/icon-128.png",
+    "bytes": 1340
+  },
+  {
+    "path": "firefox_amo/themes/black_violet_orange_v1.4/icons/icon-48.png",
+    "bytes": 506
+  },
+  {
+    "path": "firefox_amo/themes/black_violet_orange_v1.4/icons/icon-96.png",
+    "bytes": 977
+  },
+  {
+    "path": "firefox_amo/themes/black_violet_orange_v1.4/manifest.json",
+    "bytes": 1350
+  },
+  {
+    "path": "firefox_amo/themes/black_violet_purple_v1.4/README.md",
+    "bytes": 509
+  },
+  {
+    "path": "firefox_amo/themes/black_violet_purple_v1.4/icons/icon-128.png",
+    "bytes": 1339
+  },
+  {
+    "path": "firefox_amo/themes/black_violet_purple_v1.4/icons/icon-48.png",
+    "bytes": 497
+  },
+  {
+    "path": "firefox_amo/themes/black_violet_purple_v1.4/icons/icon-96.png",
+    "bytes": 978
+  },
+  {
+    "path": "firefox_amo/themes/black_violet_purple_v1.4/manifest.json",
+    "bytes": 1380
+  },
+  {
+    "path": "firefox_amo/themes/smoked_lilac_purple_v1.4/README.md",
+    "bytes": 502
+  },
+  {
+    "path": "firefox_amo/themes/smoked_lilac_purple_v1.4/icons/icon-128.png",
+    "bytes": 1341
+  },
+  {
+    "path": "firefox_amo/themes/smoked_lilac_purple_v1.4/icons/icon-48.png",
+    "bytes": 498
+  },
+  {
+    "path": "firefox_amo/themes/smoked_lilac_purple_v1.4/icons/icon-96.png",
+    "bytes": 978
+  },
+  {
+    "path": "firefox_amo/themes/smoked_lilac_purple_v1.4/manifest.json",
+    "bytes": 1366
+  },
+  {
+    "path": "firefox_amo/xpi_unsigned_for_dev_only/black_violet_magenta_unsigned_dev_only_v1.4.xpi",
+    "bytes": 4211
+  },
+  {
+    "path": "firefox_amo/xpi_unsigned_for_dev_only/black_violet_orange_unsigned_dev_only_v1.4.xpi",
+    "bytes": 4215
+  },
+  {
+    "path": "firefox_amo/xpi_unsigned_for_dev_only/black_violet_purple_unsigned_dev_only_v1.4.xpi",
+    "bytes": 4231
+  },
+  {
+    "path": "firefox_amo/xpi_unsigned_for_dev_only/smoked_lilac_purple_unsigned_dev_only_v1.4.xpi",
+    "bytes": 4228
+  },
+  {
+    "path": "microsoft_edge_addons/build/black-violet-magenta_edge_v1.0/LICENSE.txt",
+    "bytes": 223
+  },
+  {
+    "path": "microsoft_edge_addons/build/black-violet-magenta_edge_v1.0/README.md",
+    "bytes": 457
+  },
+  {
+    "path": "microsoft_edge_addons/build/black-violet-magenta_edge_v1.0/icons/icon-128.png",
+    "bytes": 2194
+  },
+  {
+    "path": "microsoft_edge_addons/build/black-violet-magenta_edge_v1.0/icons/icon-16.png",
+    "bytes": 434
+  },
+  {
+    "path": "microsoft_edge_addons/build/black-violet-magenta_edge_v1.0/icons/icon-32.png",
+    "bytes": 633
+  },
+  {
+    "path": "microsoft_edge_addons/build/black-violet-magenta_edge_v1.0/icons/icon-48.png",
+    "bytes": 951
+  },
+  {
+    "path": "microsoft_edge_addons/build/black-violet-magenta_edge_v1.0/manifest.json",
+    "bytes": 2136
+  },
+  {
+    "path": "microsoft_edge_addons/build/black-violet-orange_edge_v1.0/LICENSE.txt",
+    "bytes": 223
+  },
+  {
+    "path": "microsoft_edge_addons/build/black-violet-orange_edge_v1.0/README.md",
+    "bytes": 456
+  },
+  {
+    "path": "microsoft_edge_addons/build/black-violet-orange_edge_v1.0/icons/icon-128.png",
+    "bytes": 2327
+  },
+  {
+    "path": "microsoft_edge_addons/build/black-violet-orange_edge_v1.0/icons/icon-16.png",
+    "bytes": 422
+  },
+  {
+    "path": "microsoft_edge_addons/build/black-violet-orange_edge_v1.0/icons/icon-32.png",
+    "bytes": 597
+  },
+  {
+    "path": "microsoft_edge_addons/build/black-violet-orange_edge_v1.0/icons/icon-48.png",
+    "bytes": 975
+  },
+  {
+    "path": "microsoft_edge_addons/build/black-violet-orange_edge_v1.0/manifest.json",
+    "bytes": 2136
+  },
+  {
+    "path": "microsoft_edge_addons/build/black-violet-purple_edge_v1.0/LICENSE.txt",
+    "bytes": 223
+  },
+  {
+    "path": "microsoft_edge_addons/build/black-violet-purple_edge_v1.0/README.md",
+    "bytes": 456
+  },
+  {
+    "path": "microsoft_edge_addons/build/black-violet-purple_edge_v1.0/icons/icon-128.png",
+    "bytes": 1976
+  },
+  {
+    "path": "microsoft_edge_addons/build/black-violet-purple_edge_v1.0/icons/icon-16.png",
+    "bytes": 402
+  },
+  {
+    "path": "microsoft_edge_addons/build/black-violet-purple_edge_v1.0/icons/icon-32.png",
+    "bytes": 574
+  },
+  {
+    "path": "microsoft_edge_addons/build/black-violet-purple_edge_v1.0/icons/icon-48.png",
+    "bytes": 884
+  },
+  {
+    "path": "microsoft_edge_addons/build/black-violet-purple_edge_v1.0/manifest.json",
+    "bytes": 2132
+  },
+  {
+    "path": "microsoft_edge_addons/build/smoked-lilac-purple_edge_v1.0/LICENSE.txt",
+    "bytes": 223
+  },
+  {
+    "path": "microsoft_edge_addons/build/smoked-lilac-purple_edge_v1.0/README.md",
+    "bytes": 456
+  },
+  {
+    "path": "microsoft_edge_addons/build/smoked-lilac-purple_edge_v1.0/icons/icon-128.png",
+    "bytes": 1989
+  },
+  {
+    "path": "microsoft_edge_addons/build/smoked-lilac-purple_edge_v1.0/icons/icon-16.png",
+    "bytes": 419
+  },
+  {
+    "path": "microsoft_edge_addons/build/smoked-lilac-purple_edge_v1.0/icons/icon-32.png",
+    "bytes": 598
+  },
+  {
+    "path": "microsoft_edge_addons/build/smoked-lilac-purple_edge_v1.0/icons/icon-48.png",
+    "bytes": 885
+  },
+  {
+    "path": "microsoft_edge_addons/build/smoked-lilac-purple_edge_v1.0/manifest.json",
+    "bytes": 2130
+  },
+  {
+    "path": "microsoft_edge_addons/metadata/black-violet-magenta_edge_addons_metadata_v1.0.json",
+    "bytes": 1286
+  },
+  {
+    "path": "microsoft_edge_addons/metadata/black-violet-orange_edge_addons_metadata_v1.0.json",
+    "bytes": 1288
+  },
+  {
+    "path": "microsoft_edge_addons/metadata/black-violet-purple_edge_addons_metadata_v1.0.json",
+    "bytes": 1279
+  },
+  {
+    "path": "microsoft_edge_addons/metadata/smoked-lilac-purple_edge_addons_metadata_v1.0.json",
+    "bytes": 1277
+  },
+  {
+    "path": "microsoft_edge_addons/previews/black-violet-magenta_edge_preview_v1.0.png",
+    "bytes": 41327
+  },
+  {
+    "path": "microsoft_edge_addons/previews/black-violet-orange_edge_preview_v1.0.png",
+    "bytes": 41973
+  },
+  {
+    "path": "microsoft_edge_addons/previews/black-violet-purple_edge_preview_v1.0.png",
+    "bytes": 41249
+  },
+  {
+    "path": "microsoft_edge_addons/previews/smoked-lilac-purple_edge_preview_v1.0.png",
+    "bytes": 40422
+  },
+  {
+    "path": "microsoft_edge_addons/source/black-violet-magenta_edge_source_v1.0.zip",
+    "bytes": 5991
+  },
+  {
+    "path": "microsoft_edge_addons/source/black-violet-orange_edge_source_v1.0.zip",
+    "bytes": 6110
+  },
+  {
+    "path": "microsoft_edge_addons/source/black-violet-purple_edge_source_v1.0.zip",
+    "bytes": 5614
+  },
+  {
+    "path": "microsoft_edge_addons/source/smoked-lilac-purple_edge_source_v1.0.zip",
+    "bytes": 5662
+  },
+  {
+    "path": "microsoft_edge_addons/store_assets/black-violet-magenta/black-violet-magenta_large_tile_1400x560_v1.0.png",
+    "bytes": 88613
+  },
+  {
+    "path": "microsoft_edge_addons/store_assets/black-violet-magenta/black-violet-magenta_screenshot_1280x800_v1.0.png",
+    "bytes": 41327
+  },
+  {
+    "path": "microsoft_edge_addons/store_assets/black-violet-magenta/black-violet-magenta_small_tile_440x280_v1.0.png",
+    "bytes": 26749
+  },
+  {
+    "path": "microsoft_edge_addons/store_assets/black-violet-orange/black-violet-orange_large_tile_1400x560_v1.0.png",
+    "bytes": 89243
+  },
+  {
+    "path": "microsoft_edge_addons/store_assets/black-violet-orange/black-violet-orange_screenshot_1280x800_v1.0.png",
+    "bytes": 41973
+  },
+  {
+    "path": "microsoft_edge_addons/store_assets/black-violet-orange/black-violet-orange_small_tile_440x280_v1.0.png",
+    "bytes": 26476
+  },
+  {
+    "path": "microsoft_edge_addons/store_assets/black-violet-purple/black-violet-purple_large_tile_1400x560_v1.0.png",
+    "bytes": 87236
+  },
+  {
+    "path": "microsoft_edge_addons/store_assets/black-violet-purple/black-violet-purple_screenshot_1280x800_v1.0.png",
+    "bytes": 41249
+  },
+  {
+    "path": "microsoft_edge_addons/store_assets/black-violet-purple/black-violet-purple_small_tile_440x280_v1.0.png",
+    "bytes": 26422
+  },
+  {
+    "path": "microsoft_edge_addons/store_assets/smoked-lilac-purple/smoked-lilac-purple_large_tile_1400x560_v1.0.png",
+    "bytes": 84586
+  },
+  {
+    "path": "microsoft_edge_addons/store_assets/smoked-lilac-purple/smoked-lilac-purple_screenshot_1280x800_v1.0.png",
+    "bytes": 40422
+  },
+  {
+    "path": "microsoft_edge_addons/store_assets/smoked-lilac-purple/smoked-lilac-purple_small_tile_440x280_v1.0.png",
+    "bytes": 25709
+  },
+  {
+    "path": "opera_gx_mods/build/black-violet-magenta_opera_gx_mod_v1.0/README.md",
+    "bytes": 478
+  },
+  {
+    "path": "opera_gx_mods/build/black-violet-magenta_opera_gx_mod_v1.0/icon_512.png",
+    "bytes": 8283
+  },
+  {
+    "path": "opera_gx_mods/build/black-violet-magenta_opera_gx_mod_v1.0/license.txt",
+    "bytes": 223
+  },
+  {
+    "path": "opera_gx_mods/build/black-violet-magenta_opera_gx_mod_v1.0/manifest.json",
+    "bytes": 1223
+  },
+  {
+    "path": "opera_gx_mods/build/black-violet-magenta_opera_gx_mod_v1.0/wallpaper/dark.png",
+    "bytes": 72272
+  },
+  {
+    "path": "opera_gx_mods/build/black-violet-magenta_opera_gx_mod_v1.0/wallpaper/light.png",
+    "bytes": 73579
+  },
+  {
+    "path": "opera_gx_mods/build/black-violet-orange_opera_gx_mod_v1.0/README.md",
+    "bytes": 477
+  },
+  {
+    "path": "opera_gx_mods/build/black-violet-orange_opera_gx_mod_v1.0/icon_512.png",
+    "bytes": 8920
+  },
+  {
+    "path": "opera_gx_mods/build/black-violet-orange_opera_gx_mod_v1.0/license.txt",
+    "bytes": 223
+  },
+  {
+    "path": "opera_gx_mods/build/black-violet-orange_opera_gx_mod_v1.0/manifest.json",
+    "bytes": 1224
+  },
+  {
+    "path": "opera_gx_mods/build/black-violet-orange_opera_gx_mod_v1.0/wallpaper/dark.png",
+    "bytes": 73787
+  },
+  {
+    "path": "opera_gx_mods/build/black-violet-orange_opera_gx_mod_v1.0/wallpaper/light.png",
+    "bytes": 75090
+  },
+  {
+    "path": "opera_gx_mods/build/black-violet-purple_opera_gx_mod_v1.0/README.md",
+    "bytes": 477
+  },
+  {
+    "path": "opera_gx_mods/build/black-violet-purple_opera_gx_mod_v1.0/icon_512.png",
+    "bytes": 7607
+  },
+  {
+    "path": "opera_gx_mods/build/black-violet-purple_opera_gx_mod_v1.0/license.txt",
+    "bytes": 223
+  },
+  {
+    "path": "opera_gx_mods/build/black-violet-purple_opera_gx_mod_v1.0/manifest.json",
+    "bytes": 1221
+  },
+  {
+    "path": "opera_gx_mods/build/black-violet-purple_opera_gx_mod_v1.0/wallpaper/dark.png",
+    "bytes": 72695
+  },
+  {
+    "path": "opera_gx_mods/build/black-violet-purple_opera_gx_mod_v1.0/wallpaper/light.png",
+    "bytes": 73783
+  },
+  {
+    "path": "opera_gx_mods/build/smoked-lilac-purple_opera_gx_mod_v1.0/README.md",
+    "bytes": 477
+  },
+  {
+    "path": "opera_gx_mods/build/smoked-lilac-purple_opera_gx_mod_v1.0/icon_512.png",
+    "bytes": 7655
+  },
+  {
+    "path": "opera_gx_mods/build/smoked-lilac-purple_opera_gx_mod_v1.0/license.txt",
+    "bytes": 223
+  },
+  {
+    "path": "opera_gx_mods/build/smoked-lilac-purple_opera_gx_mod_v1.0/manifest.json",
+    "bytes": 1223
+  },
+  {
+    "path": "opera_gx_mods/build/smoked-lilac-purple_opera_gx_mod_v1.0/wallpaper/dark.png",
+    "bytes": 74055
+  },
+  {
+    "path": "opera_gx_mods/build/smoked-lilac-purple_opera_gx_mod_v1.0/wallpaper/light.png",
+    "bytes": 74055
+  },
+  {
+    "path": "opera_gx_mods/metadata/black-violet-magenta_opera_gx_metadata_v1.0.json",
+    "bytes": 1036
+  },
+  {
+    "path": "opera_gx_mods/metadata/black-violet-orange_opera_gx_metadata_v1.0.json",
+    "bytes": 1037
+  },
+  {
+    "path": "opera_gx_mods/metadata/black-violet-purple_opera_gx_metadata_v1.0.json",
+    "bytes": 1028
+  },
+  {
+    "path": "opera_gx_mods/metadata/smoked-lilac-purple_opera_gx_metadata_v1.0.json",
+    "bytes": 1026
+  },
+  {
+    "path": "opera_gx_mods/previews/black-violet-magenta_opera_gx_preview_v1.0.png",
+    "bytes": 41327
+  },
+  {
+    "path": "opera_gx_mods/previews/black-violet-orange_opera_gx_preview_v1.0.png",
+    "bytes": 41973
+  },
+  {
+    "path": "opera_gx_mods/previews/black-violet-purple_opera_gx_preview_v1.0.png",
+    "bytes": 41249
+  },
+  {
+    "path": "opera_gx_mods/previews/smoked-lilac-purple_opera_gx_preview_v1.0.png",
+    "bytes": 40422
+  },
+  {
+    "path": "opera_gx_mods/source/black-violet-magenta_opera_gx_mod_source_v1.0.zip",
+    "bytes": 137022
+  },
+  {
+    "path": "opera_gx_mods/source/black-violet-orange_opera_gx_mod_source_v1.0.zip",
+    "bytes": 140324
+  },
+  {
+    "path": "opera_gx_mods/source/black-violet-purple_opera_gx_mod_source_v1.0.zip",
+    "bytes": 136969
+  },
+  {
+    "path": "opera_gx_mods/source/smoked-lilac-purple_opera_gx_mod_source_v1.0.zip",
+    "bytes": 138231
+  },
+  {
+    "path": "opera_gx_mods/store_assets/black-violet-magenta/black-violet-magenta_icon_512_v1.0.png",
+    "bytes": 8283
+  },
+  {
+    "path": "opera_gx_mods/store_assets/black-violet-magenta/black-violet-magenta_screenshot_1280x800_v1.0.png",
+    "bytes": 41327
+  },
+  {
+    "path": "opera_gx_mods/store_assets/black-violet-magenta/black-violet-magenta_wallpaper_dark_1920x1080_v1.0.png",
+    "bytes": 72272
+  },
+  {
+    "path": "opera_gx_mods/store_assets/black-violet-magenta/black-violet-magenta_wallpaper_light_1920x1080_v1.0.png",
+    "bytes": 73579
+  },
+  {
+    "path": "opera_gx_mods/store_assets/black-violet-orange/black-violet-orange_icon_512_v1.0.png",
+    "bytes": 8920
+  },
+  {
+    "path": "opera_gx_mods/store_assets/black-violet-orange/black-violet-orange_screenshot_1280x800_v1.0.png",
+    "bytes": 41973
+  },
+  {
+    "path": "opera_gx_mods/store_assets/black-violet-orange/black-violet-orange_wallpaper_dark_1920x1080_v1.0.png",
+    "bytes": 73787
+  },
+  {
+    "path": "opera_gx_mods/store_assets/black-violet-orange/black-violet-orange_wallpaper_light_1920x1080_v1.0.png",
+    "bytes": 75090
+  },
+  {
+    "path": "opera_gx_mods/store_assets/black-violet-purple/black-violet-purple_icon_512_v1.0.png",
+    "bytes": 7607
+  },
+  {
+    "path": "opera_gx_mods/store_assets/black-violet-purple/black-violet-purple_screenshot_1280x800_v1.0.png",
+    "bytes": 41249
+  },
+  {
+    "path": "opera_gx_mods/store_assets/black-violet-purple/black-violet-purple_wallpaper_dark_1920x1080_v1.0.png",
+    "bytes": 72695
+  },
+  {
+    "path": "opera_gx_mods/store_assets/black-violet-purple/black-violet-purple_wallpaper_light_1920x1080_v1.0.png",
+    "bytes": 73783
+  },
+  {
+    "path": "opera_gx_mods/store_assets/smoked-lilac-purple/smoked-lilac-purple_icon_512_v1.0.png",
+    "bytes": 7655
+  },
+  {
+    "path": "opera_gx_mods/store_assets/smoked-lilac-purple/smoked-lilac-purple_screenshot_1280x800_v1.0.png",
+    "bytes": 40422
+  },
+  {
+    "path": "opera_gx_mods/store_assets/smoked-lilac-purple/smoked-lilac-purple_wallpaper_dark_1920x1080_v1.0.png",
+    "bytes": 74055
+  },
+  {
+    "path": "opera_gx_mods/store_assets/smoked-lilac-purple/smoked-lilac-purple_wallpaper_light_1920x1080_v1.0.png",
+    "bytes": 74055
+  },
+  {
+    "path": "safari_macos/previews/black-violet-magenta_safari_tint_preview_v1.0.png",
+    "bytes": 41327
+  },
+  {
+    "path": "safari_macos/previews/black-violet-orange_safari_tint_preview_v1.0.png",
+    "bytes": 41973
+  },
+  {
+    "path": "safari_macos/previews/black-violet-purple_safari_tint_preview_v1.0.png",
+    "bytes": 41249
+  },
+  {
+    "path": "safari_macos/previews/smoked-lilac-purple_safari_tint_preview_v1.0.png",
+    "bytes": 40422
+  },
+  {
+    "path": "safari_macos/recipes/black-violet-magenta_safari_macos_tint_recipe_v1.0.md",
+    "bytes": 821
+  },
+  {
+    "path": "safari_macos/recipes/black-violet-orange_safari_macos_tint_recipe_v1.0.md",
+    "bytes": 819
+  },
+  {
+    "path": "safari_macos/recipes/black-violet-purple_safari_macos_tint_recipe_v1.0.md",
+    "bytes": 819
+  },
+  {
+    "path": "safari_macos/recipes/smoked-lilac-purple_safari_macos_tint_recipe_v1.0.md",
+    "bytes": 819
+  },
+  {
+    "path": "shared/icons/black-violet-magenta-icon-128.png",
+    "bytes": 2194
+  },
+  {
+    "path": "shared/icons/black-violet-magenta-icon-16.png",
+    "bytes": 434
+  },
+  {
+    "path": "shared/icons/black-violet-magenta-icon-32.png",
+    "bytes": 633
+  },
+  {
+    "path": "shared/icons/black-violet-magenta-icon-48.png",
+    "bytes": 951
+  },
+  {
+    "path": "shared/icons/black-violet-magenta-icon-512.png",
+    "bytes": 8283
+  },
+  {
+    "path": "shared/icons/black-violet-magenta-icon-96.png",
+    "bytes": 1699
+  },
+  {
+    "path": "shared/icons/black-violet-orange-icon-128.png",
+    "bytes": 2327
+  },
+  {
+    "path": "shared/icons/black-violet-orange-icon-16.png",
+    "bytes": 422
+  },
+  {
+    "path": "shared/icons/black-violet-orange-icon-32.png",
+    "bytes": 597
+  },
+  {
+    "path": "shared/icons/black-violet-orange-icon-48.png",
+    "bytes": 975
+  },
+  {
+    "path": "shared/icons/black-violet-orange-icon-512.png",
+    "bytes": 8920
+  },
+  {
+    "path": "shared/icons/black-violet-orange-icon-96.png",
+    "bytes": 1726
+  },
+  {
+    "path": "shared/icons/black-violet-purple-icon-128.png",
+    "bytes": 1976
+  },
+  {
+    "path": "shared/icons/black-violet-purple-icon-16.png",
+    "bytes": 402
+  },
+  {
+    "path": "shared/icons/black-violet-purple-icon-32.png",
+    "bytes": 574
+  },
+  {
+    "path": "shared/icons/black-violet-purple-icon-48.png",
+    "bytes": 884
+  },
+  {
+    "path": "shared/icons/black-violet-purple-icon-512.png",
+    "bytes": 7607
+  },
+  {
+    "path": "shared/icons/black-violet-purple-icon-96.png",
+    "bytes": 1542
+  },
+  {
+    "path": "shared/icons/smoked-lilac-purple-icon-128.png",
+    "bytes": 1989
+  },
+  {
+    "path": "shared/icons/smoked-lilac-purple-icon-16.png",
+    "bytes": 419
+  },
+  {
+    "path": "shared/icons/smoked-lilac-purple-icon-32.png",
+    "bytes": 598
+  },
+  {
+    "path": "shared/icons/smoked-lilac-purple-icon-48.png",
+    "bytes": 885
+  },
+  {
+    "path": "shared/icons/smoked-lilac-purple-icon-512.png",
+    "bytes": 7655
+  },
+  {
+    "path": "shared/icons/smoked-lilac-purple-icon-96.png",
+    "bytes": 1579
+  },
+  {
+    "path": "shared/previews/black-violet-magenta_cross_browser_preview_v1.0.png",
+    "bytes": 41327
+  },
+  {
+    "path": "shared/previews/black-violet-orange_cross_browser_preview_v1.0.png",
+    "bytes": 41973
+  },
+  {
+    "path": "shared/previews/black-violet-purple_cross_browser_preview_v1.0.png",
+    "bytes": 41249
+  },
+  {
+    "path": "shared/previews/purple_cross_browser_contact_sheet_v1.0.png",
+    "bytes": 208733
+  },
+  {
+    "path": "shared/previews/smoked-lilac-purple_cross_browser_preview_v1.0.png",
+    "bytes": 40422
+  },
+  {
+    "path": "submission_uploads/chrome_web_store/black-violet-magenta_chrome_source_v1.0.zip",
+    "bytes": 5976
+  },
+  {
+    "path": "submission_uploads/chrome_web_store/black-violet-orange_chrome_source_v1.0.zip",
+    "bytes": 6093
+  },
+  {
+    "path": "submission_uploads/chrome_web_store/black-violet-purple_chrome_source_v1.0.zip",
+    "bytes": 5596
+  },
+  {
+    "path": "submission_uploads/chrome_web_store/smoked-lilac-purple_chrome_source_v1.0.zip",
+    "bytes": 5646
+  },
+  {
+    "path": "submission_uploads/duckduckgo_recipes/black-violet-magenta_duckduckgo_recipe_v1.0.json",
+    "bytes": 951
+  },
+  {
+    "path": "submission_uploads/duckduckgo_recipes/black-violet-orange_duckduckgo_recipe_v1.0.json",
+    "bytes": 950
+  },
+  {
+    "path": "submission_uploads/duckduckgo_recipes/black-violet-purple_duckduckgo_recipe_v1.0.json",
+    "bytes": 950
+  },
+  {
+    "path": "submission_uploads/duckduckgo_recipes/smoked-lilac-purple_duckduckgo_recipe_v1.0.json",
+    "bytes": 951
+  },
+  {
+    "path": "submission_uploads/firefox_amo/black_violet_magenta_source_v1.4.zip",
+    "bytes": 4211
+  },
+  {
+    "path": "submission_uploads/firefox_amo/black_violet_orange_source_v1.4.zip",
+    "bytes": 4215
+  },
+  {
+    "path": "submission_uploads/firefox_amo/black_violet_purple_source_v1.4.zip",
+    "bytes": 4231
+  },
+  {
+    "path": "submission_uploads/firefox_amo/smoked_lilac_purple_source_v1.4.zip",
+    "bytes": 4228
+  },
+  {
+    "path": "submission_uploads/microsoft_edge_addons/black-violet-magenta_edge_source_v1.0.zip",
+    "bytes": 5991
+  },
+  {
+    "path": "submission_uploads/microsoft_edge_addons/black-violet-orange_edge_source_v1.0.zip",
+    "bytes": 6110
+  },
+  {
+    "path": "submission_uploads/microsoft_edge_addons/black-violet-purple_edge_source_v1.0.zip",
+    "bytes": 5614
+  },
+  {
+    "path": "submission_uploads/microsoft_edge_addons/smoked-lilac-purple_edge_source_v1.0.zip",
+    "bytes": 5662
+  },
+  {
+    "path": "submission_uploads/opera_gx_mods/black-violet-magenta_opera_gx_mod_source_v1.0.zip",
+    "bytes": 137022
+  },
+  {
+    "path": "submission_uploads/opera_gx_mods/black-violet-orange_opera_gx_mod_source_v1.0.zip",
+    "bytes": 140324
+  },
+  {
+    "path": "submission_uploads/opera_gx_mods/black-violet-purple_opera_gx_mod_source_v1.0.zip",
+    "bytes": 136969
+  },
+  {
+    "path": "submission_uploads/opera_gx_mods/smoked-lilac-purple_opera_gx_mod_source_v1.0.zip",
+    "bytes": 138231
+  },
+  {
+    "path": "submission_uploads/safari_macos_recipes/black-violet-magenta_safari_macos_tint_recipe_v1.0.md",
+    "bytes": 821
+  },
+  {
+    "path": "submission_uploads/safari_macos_recipes/black-violet-orange_safari_macos_tint_recipe_v1.0.md",
+    "bytes": 819
+  },
+  {
+    "path": "submission_uploads/safari_macos_recipes/black-violet-purple_safari_macos_tint_recipe_v1.0.md",
+    "bytes": 819
+  },
+  {
+    "path": "submission_uploads/safari_macos_recipes/smoked-lilac-purple_safari_macos_tint_recipe_v1.0.md",
+    "bytes": 819
+  }
+]

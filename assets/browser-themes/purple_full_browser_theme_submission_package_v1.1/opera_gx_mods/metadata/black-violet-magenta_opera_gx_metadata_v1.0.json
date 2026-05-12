@@ -1,0 +1,18 @@
+{
+  "store": "Opera GX / GX.store",
+  "name": "Black Violet Magenta",
+  "version": "1.0",
+  "category": "Themes / Appearance",
+  "summary": "Dark black-violet browser chrome with magenta accents.",
+  "description": "A dark black-violet and magenta browser theme using layered plum surfaces, muted lilac text, and vivid magenta accents for a rare/premium dark interface.",
+  "license": "Replace LICENSE.txt before final submission if you need a specific public license.",
+  "source_zip": "opera_gx_mods/source/black-violet-magenta_opera_gx_mod_source_v1.0.zip",
+  "icon_512": "opera_gx_mods/store_assets/black-violet-magenta/black-violet-magenta_icon_512_v1.0.png",
+  "screenshots": [
+    "opera_gx_mods/store_assets/black-violet-magenta/black-violet-magenta_screenshot_1280x800_v1.0.png"
+  ],
+  "wallpapers": [
+    "opera_gx_mods/store_assets/black-violet-magenta/black-violet-magenta_wallpaper_dark_1920x1080_v1.0.png",
+    "opera_gx_mods/store_assets/black-violet-magenta/black-violet-magenta_wallpaper_light_1920x1080_v1.0.png"
+  ]
+}

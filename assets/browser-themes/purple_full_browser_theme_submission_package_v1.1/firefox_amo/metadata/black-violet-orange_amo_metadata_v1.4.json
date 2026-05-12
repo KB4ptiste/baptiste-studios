@@ -1,0 +1,26 @@
+{
+  "name": {
+    "en-US": "Black Violet Orange"
+  },
+  "slug": "black-violet-orange",
+  "summary": {
+    "en-US": "Dark black-violet Firefox theme with orange-gold active-tab and focus accents."
+  },
+  "description": {
+    "en-US": "Black Violet Orange is a dark Firefox theme with black-violet browser chrome and orange-gold accents on active tabs, focused fields, and attention states. It has the same dark structure as Black Violet Magenta, but swaps the accent to Ember Gold for a warmer premium signal."
+  },
+  "categories": [
+    "solid"
+  ],
+  "tags": [
+    "purple",
+    "dark",
+    "orange",
+    "black violet",
+    "solid theme"
+  ],
+  "version": {
+    "license": "CC-BY-NC-ND-3.0",
+    "approval_notes": "Static Firefox theme. Contains only manifest.json, local icon PNG files, and README.md. No scripts, no permissions, no remote resources, no tracking, no analytics, and no data collection or transmission."
+  }
+}

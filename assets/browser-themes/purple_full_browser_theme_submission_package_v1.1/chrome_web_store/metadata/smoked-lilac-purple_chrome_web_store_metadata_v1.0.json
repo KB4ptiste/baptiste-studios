@@ -1,0 +1,26 @@
+{
+  "store": "Chrome Web Store",
+  "name": "Smoked Lilac Purple",
+  "version": "1.0",
+  "category": "Themes",
+  "language": "en-US",
+  "summary": "Light smoked-lilac browser chrome with purple accents.",
+  "description": "A light smoked-lilac and purple browser theme using soft amethyst surfaces, dark plum text, and purple active-tab accents for a readable light interface.",
+  "single_purpose": "Changes browser chrome colors only. No scripts, no permissions, no data collection.",
+  "privacy_practices": {
+    "collects_user_data": false,
+    "permissions_requested": []
+  },
+  "mature_content": false,
+  "keywords": [
+    "purple theme",
+    "light theme",
+    "browser theme",
+    "smoked lilac purple"
+  ],
+  "source_zip": "chrome_web_store/source/smoked-lilac-purple_chrome_source_v1.0.zip",
+  "screenshot": "chrome_web_store/store_assets/smoked-lilac-purple/smoked-lilac-purple_screenshot_1280x800_v1.0.png",
+  "support_url": "https://example.com/purple-color-themes/support",
+  "homepage_url": "https://example.com/purple-color-themes",
+  "privacy_policy_url": "https://example.com/purple-color-themes/privacy"
+}

@@ -1,0 +1,26 @@
+{
+  "store": "Chrome Web Store",
+  "name": "Black Violet Purple",
+  "version": "1.0",
+  "category": "Themes",
+  "language": "en-US",
+  "summary": "Dark black-violet browser chrome with purple accents.",
+  "description": "A dark black-violet and purple browser theme using layered plum surfaces, muted lilac text, and purple active-tab accents for a focused low-glare interface.",
+  "single_purpose": "Changes browser chrome colors only. No scripts, no permissions, no data collection.",
+  "privacy_practices": {
+    "collects_user_data": false,
+    "permissions_requested": []
+  },
+  "mature_content": false,
+  "keywords": [
+    "purple theme",
+    "dark theme",
+    "browser theme",
+    "black violet purple"
+  ],
+  "source_zip": "chrome_web_store/source/black-violet-purple_chrome_source_v1.0.zip",
+  "screenshot": "chrome_web_store/store_assets/black-violet-purple/black-violet-purple_screenshot_1280x800_v1.0.png",
+  "support_url": "https://example.com/purple-color-themes/support",
+  "homepage_url": "https://example.com/purple-color-themes",
+  "privacy_policy_url": "https://example.com/purple-color-themes/privacy"
+}

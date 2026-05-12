@@ -1,0 +1,40 @@
+{
+  "manifest_version": 2,
+  "version": "1.3",
+  "name": "Fenix Ember Rare",
+  "description": "Dark Firefox theme similar to Fenix Astral Rare, but using Ember Gold from Night Command for rare premium emphasis.",
+  "theme": {
+    "colors": {
+      "frame": "#150A24",
+      "frame_inactive": "#12091C",
+      "toolbar": "#1B1226",
+      "toolbar_text": "#D6C8EA",
+      "toolbar_field_text": "#E7DCF5",
+      "toolbar_field_border": "#5A3F1E",
+      "toolbar_top_separator": "#2E203D",
+      "toolbar_bottom_separator": "#2B2110",
+      "toolbar_vertical_separator": "#2E203D",
+      "tab_background_text": "#A99ABF",
+      "tab_selected": "#27173A",
+      "tab_text": "#E7DCF5",
+      "popup": "#27173A",
+      "popup_text": "#D6C8EA",
+      "popup_border": "#2B2110",
+      "popup_highlight_text": "#F59E0B",
+      "icons": "#A99ABF",
+      "button_background_hover": "#21152F",
+      "toolbar_field": "#2B2110",
+      "toolbar_field_border_focus": "#F59E0B",
+      "tab_line": "#F59E0B",
+      "tab_loading": "#F59E0B",
+      "popup_highlight": "#2B2110",
+      "icons_attention": "#F59E0B",
+      "button_background_active": "#2B2110"
+    }
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "fenix-ember-rare@fenix-gaming.local"
+    }
+  }
+}

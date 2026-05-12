@@ -1,0 +1,28 @@
+{
+  "name": "Smoked Lilac Purple",
+  "version": "1.0",
+  "target": "DuckDuckGo Browser / DuckDuckGo Search appearance recipe",
+  "public_package_available": false,
+  "reason": "DuckDuckGo does not publish a public third-party browser-theme package workflow comparable to Chrome Web Store, Edge Add-ons, Opera GX Mods, Firefox AMO, or Safari App Store themes.",
+  "browser_appearance_mapping": {
+    "theme_mode": "Light",
+    "background": "#DED2E8",
+    "surface": "#E9E0F1",
+    "field_background": "#FFFFFF",
+    "primary_text": "#17111F",
+    "secondary_text": "#554A60",
+    "accent": "#6D28D9",
+    "link": "#5B21B6",
+    "border": "#BCA8D0"
+  },
+  "duckduckgo_search_page_suggested_mapping": {
+    "page_background": "#DED2E8",
+    "result_background": "#F3EEF8",
+    "header_background": "#E9E0F1",
+    "text": "#17111F",
+    "result_title": "#5B21B6",
+    "url": "#6D28D9",
+    "visited_result_title": "#6D28D9",
+    "border": "#BCA8D0"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "manifest_version": 2,
+  "version": "1.4",
+  "name": "Smoked Lilac Purple",
+  "description": "A light Firefox theme with smoked lilac surfaces, dark plum text, and purple active-tab accents.",
+  "icons": {
+    "48": "icons/icon-48.png",
+    "96": "icons/icon-96.png",
+    "128": "icons/icon-128.png"
+  },
+  "theme": {
+    "colors": {
+      "frame": "#DED2E8",
+      "frame_inactive": "#C8B6DB",
+      "toolbar": "#E9E0F1",
+      "toolbar_text": "#17111F",
+      "toolbar_field": "#FFFFFF",
+      "toolbar_field_text": "#17111F",
+      "toolbar_field_border": "#BCA8D0",
+      "toolbar_field_border_focus": "#7C3AED",
+      "toolbar_top_separator": "#CAB8DC",
+      "toolbar_bottom_separator": "#BCA8D0",
+      "toolbar_vertical_separator": "#CAB8DC",
+      "tab_background_text": "#554A60",
+      "tab_selected": "#F3EEF8",
+      "tab_text": "#17111F",
+      "tab_line": "#6D28D9",
+      "tab_loading": "#6D28D9",
+      "popup": "#F3EEF8",
+      "popup_text": "#17111F",
+      "popup_border": "#BCA8D0",
+      "popup_highlight": "#D2C2E2",
+      "popup_highlight_text": "#17111F",
+      "icons": "#554A60",
+      "icons_attention": "#92400E",
+      "button_background_hover": "#D8C9E6",
+      "button_background_active": "#CDB9DF"
+    }
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "smoked-lilac-purple@purple-color-themes.local"
+    }
+  }
+}

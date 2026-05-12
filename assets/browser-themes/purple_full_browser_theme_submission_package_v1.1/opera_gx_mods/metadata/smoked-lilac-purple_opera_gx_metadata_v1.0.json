@@ -1,0 +1,18 @@
+{
+  "store": "Opera GX / GX.store",
+  "name": "Smoked Lilac Purple",
+  "version": "1.0",
+  "category": "Themes / Appearance",
+  "summary": "Light smoked-lilac browser chrome with purple accents.",
+  "description": "A light smoked-lilac and purple browser theme using soft amethyst surfaces, dark plum text, and purple active-tab accents for a readable light interface.",
+  "license": "Replace LICENSE.txt before final submission if you need a specific public license.",
+  "source_zip": "opera_gx_mods/source/smoked-lilac-purple_opera_gx_mod_source_v1.0.zip",
+  "icon_512": "opera_gx_mods/store_assets/smoked-lilac-purple/smoked-lilac-purple_icon_512_v1.0.png",
+  "screenshots": [
+    "opera_gx_mods/store_assets/smoked-lilac-purple/smoked-lilac-purple_screenshot_1280x800_v1.0.png"
+  ],
+  "wallpapers": [
+    "opera_gx_mods/store_assets/smoked-lilac-purple/smoked-lilac-purple_wallpaper_dark_1920x1080_v1.0.png",
+    "opera_gx_mods/store_assets/smoked-lilac-purple/smoked-lilac-purple_wallpaper_light_1920x1080_v1.0.png"
+  ]
+}

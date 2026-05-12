@@ -1,0 +1,35 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Fenix Tactical Map",
+  "description": "Light Firefox theme using Tactical Blue for map, route, and neutral system emphasis.",
+  "theme": {
+    "colors": {
+      "frame": "#DED2E8",
+      "frame_inactive": "#C8B6DB",
+      "toolbar": "#E9E0F1",
+      "toolbar_text": "#17111F",
+      "toolbar_field": "#DBEAFE",
+      "toolbar_field_text": "#17111F",
+      "toolbar_field_border": "#BCA8D0",
+      "toolbar_field_border_focus": "#1D4ED8",
+      "toolbar_top_separator": "#CAB8DC",
+      "toolbar_bottom_separator": "#DBEAFE",
+      "toolbar_vertical_separator": "#CAB8DC",
+      "tab_background_text": "#554A60",
+      "tab_selected": "#F3EEF8",
+      "tab_text": "#17111F",
+      "tab_line": "#1D4ED8",
+      "tab_loading": "#1D4ED8",
+      "popup": "#F3EEF8",
+      "popup_text": "#17111F",
+      "popup_border": "#BCA8D0",
+      "popup_highlight": "#DBEAFE",
+      "popup_highlight_text": "#17111F",
+      "icons": "#554A60",
+      "icons_attention": "#1D4ED8",
+      "button_background_hover": "#D8C9E6",
+      "button_background_active": "#CDB9DF"
+    }
+  }
+}

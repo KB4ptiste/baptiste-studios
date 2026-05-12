@@ -1,0 +1,21 @@
+{
+  "store": "Microsoft Edge Add-ons",
+  "name": "Smoked Lilac Purple",
+  "version": "1.0",
+  "category": "Themes",
+  "visibility": "Public",
+  "markets": "All available markets",
+  "short_description": "Light smoked-lilac browser chrome with purple accents.",
+  "description": "A light smoked-lilac and purple browser theme using soft amethyst surfaces, dark plum text, and purple active-tab accents for a readable light interface.",
+  "mature_content": false,
+  "permissions_requested": [],
+  "collects_user_data": false,
+  "source_zip": "microsoft_edge_addons/source/smoked-lilac-purple_edge_source_v1.0.zip",
+  "logo_128": "shared/icons/smoked-lilac-purple-icon-128.png",
+  "small_promotional_tile_440x280": "microsoft_edge_addons/store_assets/smoked-lilac-purple/smoked-lilac-purple_small_tile_440x280_v1.0.png",
+  "large_promotional_tile_1400x560": "microsoft_edge_addons/store_assets/smoked-lilac-purple/smoked-lilac-purple_large_tile_1400x560_v1.0.png",
+  "screenshot": "microsoft_edge_addons/store_assets/smoked-lilac-purple/smoked-lilac-purple_screenshot_1280x800_v1.0.png",
+  "support_contact": "chatgpt@alias.asylum.ink",
+  "support_url": "https://example.com/purple-color-themes/support",
+  "privacy_policy_url": "https://example.com/purple-color-themes/privacy"
+}

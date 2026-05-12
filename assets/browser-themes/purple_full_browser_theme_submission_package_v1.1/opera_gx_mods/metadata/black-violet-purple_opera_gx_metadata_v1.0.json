@@ -1,0 +1,18 @@
+{
+  "store": "Opera GX / GX.store",
+  "name": "Black Violet Purple",
+  "version": "1.0",
+  "category": "Themes / Appearance",
+  "summary": "Dark black-violet browser chrome with purple accents.",
+  "description": "A dark black-violet and purple browser theme using layered plum surfaces, muted lilac text, and purple active-tab accents for a focused low-glare interface.",
+  "license": "Replace LICENSE.txt before final submission if you need a specific public license.",
+  "source_zip": "opera_gx_mods/source/black-violet-purple_opera_gx_mod_source_v1.0.zip",
+  "icon_512": "opera_gx_mods/store_assets/black-violet-purple/black-violet-purple_icon_512_v1.0.png",
+  "screenshots": [
+    "opera_gx_mods/store_assets/black-violet-purple/black-violet-purple_screenshot_1280x800_v1.0.png"
+  ],
+  "wallpapers": [
+    "opera_gx_mods/store_assets/black-violet-purple/black-violet-purple_wallpaper_dark_1920x1080_v1.0.png",
+    "opera_gx_mods/store_assets/black-violet-purple/black-violet-purple_wallpaper_light_1920x1080_v1.0.png"
+  ]
+}

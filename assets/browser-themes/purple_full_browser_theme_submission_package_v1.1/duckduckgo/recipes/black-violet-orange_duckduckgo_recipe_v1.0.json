@@ -1,0 +1,28 @@
+{
+  "name": "Black Violet Orange",
+  "version": "1.0",
+  "target": "DuckDuckGo Browser / DuckDuckGo Search appearance recipe",
+  "public_package_available": false,
+  "reason": "DuckDuckGo does not publish a public third-party browser-theme package workflow comparable to Chrome Web Store, Edge Add-ons, Opera GX Mods, Firefox AMO, or Safari App Store themes.",
+  "browser_appearance_mapping": {
+    "theme_mode": "Dark",
+    "background": "#150A24",
+    "surface": "#1B1226",
+    "field_background": "#2B2110",
+    "primary_text": "#D6C8EA",
+    "secondary_text": "#A99ABF",
+    "accent": "#F59E0B",
+    "link": "#F59E0B",
+    "border": "#5A3F1E"
+  },
+  "duckduckgo_search_page_suggested_mapping": {
+    "page_background": "#150A24",
+    "result_background": "#27173A",
+    "header_background": "#1B1226",
+    "text": "#D6C8EA",
+    "result_title": "#F59E0B",
+    "url": "#F59E0B",
+    "visited_result_title": "#F59E0B",
+    "border": "#5A3F1E"
+  }
+}

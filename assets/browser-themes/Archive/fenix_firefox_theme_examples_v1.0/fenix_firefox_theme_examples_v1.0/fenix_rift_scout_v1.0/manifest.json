@@ -1,0 +1,35 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Fenix Rift Scout",
+  "description": "Dark Firefox theme using Aether Cyan as the tactical scouting accent.",
+  "theme": {
+    "colors": {
+      "frame": "#100B15",
+      "frame_inactive": "#0C0911",
+      "toolbar": "#1B1226",
+      "toolbar_text": "#D6C8EA",
+      "toolbar_field": "#0F2A33",
+      "toolbar_field_text": "#D6C8EA",
+      "toolbar_field_border": "#2E203D",
+      "toolbar_field_border_focus": "#67E8F9",
+      "toolbar_top_separator": "#2E203D",
+      "toolbar_bottom_separator": "#0F2A33",
+      "toolbar_vertical_separator": "#2E203D",
+      "tab_background_text": "#A99ABF",
+      "tab_selected": "#21152F",
+      "tab_text": "#E7DCF5",
+      "tab_line": "#67E8F9",
+      "tab_loading": "#67E8F9",
+      "popup": "#27173A",
+      "popup_text": "#D6C8EA",
+      "popup_border": "#0F2A33",
+      "popup_highlight": "#0F2A33",
+      "popup_highlight_text": "#67E8F9",
+      "icons": "#A99ABF",
+      "icons_attention": "#67E8F9",
+      "button_background_hover": "#21152F",
+      "button_background_active": "#0F2A33"
+    }
+  }
+}

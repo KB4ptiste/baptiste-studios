@@ -1,0 +1,45 @@
+{
+  "manifest_version": 2,
+  "version": "1.4",
+  "name": "Black Violet Magenta",
+  "description": "A dark black-violet Firefox theme with magenta active-tab and focus accents.",
+  "icons": {
+    "48": "icons/icon-48.png",
+    "96": "icons/icon-96.png",
+    "128": "icons/icon-128.png"
+  },
+  "theme": {
+    "colors": {
+      "frame": "#150A24",
+      "frame_inactive": "#12091C",
+      "toolbar": "#1B1226",
+      "toolbar_text": "#D6C8EA",
+      "toolbar_field_text": "#E7DCF5",
+      "toolbar_field_border": "#4B3764",
+      "toolbar_top_separator": "#2E203D",
+      "toolbar_vertical_separator": "#2E203D",
+      "tab_background_text": "#A99ABF",
+      "tab_selected": "#27173A",
+      "tab_text": "#E7DCF5",
+      "popup": "#27173A",
+      "popup_text": "#D6C8EA",
+      "icons": "#A99ABF",
+      "button_background_hover": "#21152F",
+      "toolbar_field": "#32173A",
+      "toolbar_field_border_focus": "#E879F9",
+      "toolbar_bottom_separator": "#32173A",
+      "tab_line": "#E879F9",
+      "tab_loading": "#E879F9",
+      "popup_border": "#32173A",
+      "popup_highlight": "#32173A",
+      "popup_highlight_text": "#E879F9",
+      "icons_attention": "#E879F9",
+      "button_background_active": "#32173A"
+    }
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "black-violet-magenta@purple-color-themes.local"
+    }
+  }
+}

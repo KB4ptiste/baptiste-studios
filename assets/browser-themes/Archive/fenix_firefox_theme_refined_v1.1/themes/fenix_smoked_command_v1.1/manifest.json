@@ -1,0 +1,35 @@
+{
+  "manifest_version": 2,
+  "version": "1.1",
+  "name": "Fenix Smoked Command",
+  "description": "Core light Firefox theme using the Option A Smoked Command palette. v1.1 retained unchanged because the light theme already has the right smoked-purple read.",
+  "theme": {
+    "colors": {
+      "frame": "#DED2E8",
+      "frame_inactive": "#C8B6DB",
+      "toolbar": "#E9E0F1",
+      "toolbar_text": "#17111F",
+      "toolbar_field": "#FFFFFF",
+      "toolbar_field_text": "#17111F",
+      "toolbar_field_border": "#BCA8D0",
+      "toolbar_field_border_focus": "#7C3AED",
+      "toolbar_top_separator": "#CAB8DC",
+      "toolbar_bottom_separator": "#BCA8D0",
+      "toolbar_vertical_separator": "#CAB8DC",
+      "tab_background_text": "#554A60",
+      "tab_selected": "#F3EEF8",
+      "tab_text": "#17111F",
+      "tab_line": "#6D28D9",
+      "tab_loading": "#6D28D9",
+      "popup": "#F3EEF8",
+      "popup_text": "#17111F",
+      "popup_border": "#BCA8D0",
+      "popup_highlight": "#D2C2E2",
+      "popup_highlight_text": "#17111F",
+      "icons": "#554A60",
+      "icons_attention": "#92400E",
+      "button_background_hover": "#D8C9E6",
+      "button_background_active": "#CDB9DF"
+    }
+  }
+}

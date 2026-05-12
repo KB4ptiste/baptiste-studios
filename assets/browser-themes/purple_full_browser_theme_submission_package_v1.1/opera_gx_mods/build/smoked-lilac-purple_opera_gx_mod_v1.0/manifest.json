@@ -1,0 +1,56 @@
+{
+  "name": "Smoked Lilac Purple",
+  "description": "Light smoked-lilac browser chrome with purple accents. Opera GX mod theme using matching light and dark color slots.",
+  "developer": {
+    "name": "Purple Color Themes"
+  },
+  "icons": {
+    "512": "icon_512.png"
+  },
+  "manifest_version": 3,
+  "mod": {
+    "license": "license.txt",
+    "payload": {
+      "theme": {
+        "dark": {
+          "gx_accent": {
+            "h": 263,
+            "s": 70,
+            "l": 50
+          },
+          "gx_secondary_base": {
+            "h": 273,
+            "s": 32,
+            "l": 87
+          }
+        },
+        "light": {
+          "gx_accent": {
+            "h": 263,
+            "s": 70,
+            "l": 50
+          },
+          "gx_secondary_base": {
+            "h": 273,
+            "s": 32,
+            "l": 87
+          }
+        }
+      },
+      "wallpaper": {
+        "dark": {
+          "image": "wallpaper/dark.png",
+          "text_color": "#17111F",
+          "text_shadow": "#C8B6DB"
+        },
+        "light": {
+          "image": "wallpaper/light.png",
+          "text_color": "#17111F",
+          "text_shadow": "#FFFFFF"
+        }
+      }
+    },
+    "schema_version": 1
+  },
+  "version": "1.0"
+}
